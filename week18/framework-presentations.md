@@ -50,6 +50,8 @@ snacks :D
 
 ##Possible topics
 - General framework stuff
+    - Differences between Rails and AngularJS
+    - What is CoffeeScript?
     - What is MEAN stack?
     - What should you take into consideration when choosing a framework?
 
