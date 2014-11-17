@@ -59,7 +59,6 @@ Read [Code Climate's Refactoring Fat Models](http://blog.codeclimate.com/blog/20
 | **9:15 - 5:00** | [SOA Shipping](../week16/shipping_service.md)    |
 | **4:00 - 4:30** | Weekly Retrospective                |
 
-**Homework**: Watch the ember.js [Building an Ember.js Application](http://emberjs.com/guides/)
-video. Work through the application on your own.
+**Homework**: We are going to be doing a lot of JavaScript next week. Complete the [Cat Adventure Project](../week17/cat_adventure_homework.md) by the beginning of class on Monday.
 
 
